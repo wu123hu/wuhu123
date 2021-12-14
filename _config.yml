@@ -21,7 +21,7 @@ footer-links:
   email: wuhu3.14@outlook.com
   facebook:
   flickr:
-  github: https://github.com/wu123hu/wu123hu.git
+  github: https://github.com/wu123hu/wuhu
   instagram:
   linkedin:
   pinterest:
@@ -84,5 +84,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-cayman
